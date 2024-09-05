@@ -1,0 +1,4 @@
+vote_feature	1	h
+growth_feature	-0.17609125905568118	h
+vote_feature	1	h
+growth_feature	-0.17609125905568118	h

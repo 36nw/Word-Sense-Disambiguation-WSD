@@ -1,0 +1,18 @@
+2023-06-28 22:56:41,792 - INFO - Starting the decision-list.py script
+2023-06-28 22:56:41,819 - INFO - Attribute: vote_feature, Ratio: 1, Sense: h
+2023-06-28 22:56:41,819 - INFO - Attribute: growth_feature, Ratio: -0.17609125905568118, Sense: h
+2023-06-28 22:56:41,819 - INFO - Attribute: vote_feature, Ratio: 1, Sense: h
+2023-06-28 22:56:41,819 - INFO - Attribute: growth_feature, Ratio: -0.17609125905568118, Sense: h
+2023-06-28 22:56:41,839 - INFO - Finished running the decision-list.py script
+2023-06-28 22:56:41,845 - INFO - Starting the scorer.py script
+2023-06-28 22:56:41,846 - INFO - Finished running the scorer.py script
+Script executed on 2023-06-28 22:56:41.850375
+2023-06-28 23:03:23,506 - INFO - Starting the decision-list.py script
+2023-06-28 23:03:23,533 - INFO - Attribute: vote_feature, Ratio: 1, Sense: h
+2023-06-28 23:03:23,533 - INFO - Attribute: growth_feature, Ratio: -0.17609125905568118, Sense: h
+2023-06-28 23:03:23,533 - INFO - Attribute: vote_feature, Ratio: 1, Sense: h
+2023-06-28 23:03:23,534 - INFO - Attribute: growth_feature, Ratio: -0.17609125905568118, Sense: h
+2023-06-28 23:03:23,553 - INFO - Finished running the decision-list.py script
+2023-06-28 23:03:23,558 - INFO - Starting the scorer.py script
+2023-06-28 23:03:23,559 - INFO - Finished running the scorer.py script
+Script executed on 2023-06-28 23:03:23.563517
